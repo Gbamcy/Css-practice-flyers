@@ -84,3 +84,6 @@ h5{
     /* border:1px solid darkmagenta;
     outline: 5px inset aqua; */
 }
+.font-effect-emboss{
+    text-shadow: 2px 2px 5px red;
+}
